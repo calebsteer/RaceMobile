@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Race Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Recharge</string>
+    <string name="title_section3">History</string>
+    <string name="title_section4">Unmetered</string>
+    <string name="title_section5">Support</string>
+
+</resources>
